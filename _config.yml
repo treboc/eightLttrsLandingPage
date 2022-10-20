@@ -45,12 +45,12 @@ features                                  :
 
   - title                                 : Statistics
     description                           : After you saved and ended a session, stastics will be available. Which words did you found? How many words for a specific amount of points have you found?
-    fontawesome_icon_name                 : pie-chart
+    fontawesome_icon_name                 : table
 
 
 # Theme Settings
-topbar_color                              : "#FF9F0A"
-topbar_transparency                       : 0.2
+topbar_color                              : "#ff9f0a"
+topbar_transparency                       : 0.5
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
